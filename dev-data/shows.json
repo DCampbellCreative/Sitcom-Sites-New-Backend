@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "62827ccd51dbf0984955e16d"
+  },
+  "title": "Fraiser",
+  "description": "The series was created as a spin-off of the sitcom Cheers. It continues the story of psychiatrist Frasier Crane, who returns to his hometown, Seattle, as a radio show host. He reconnects with his father, Martin, a retired police officer, and his younger brother, Niles, a fellow psychiatrist.",
+  "start": "1993",
+  "end": "2004",
+  "seasons": "11",
+  "network": "NBC",
+  "characters": [
+    {
+      "name": "Frasier Crane",
+      "actor": "Kelsey Grammer",
+      "description": "Frasier Crane is a pedantic, persnickety, over-scrupulous and sometimes pontifical man. He works as a Radio psychiatrist at KACL. Frasier's lifestyle revolves around the enjoyment of the opera, symphony, gourmet dining and general luxury. Despite an air of pretentiousness, he manages to be slightly more down to earth than his brother Niles.",
+      "avatarUrl": "https://live.staticflickr.com/65535/52075589940_6bc79cb1c7_o.jpg",
+      "_id": {
+        "$oid": "62827e4851dbf0984955e16e"
+      }
+    },
+    {
+      "name": "Niles Crane",
+      "actor": "David Hyde Pierce",
+      "description": "Niles is fastidious, snooty and persnickety, and has gourmet tastes. He works as a psychiatrist at his own practice. Niles describes his profession as the saving grace of his life and is greatly respected professionally. He runs his own Jungian practice (Frasier is a Freudian) and has had his research published in several psychiatric journals. Niles has a long list of phobias and medical conditions, many of which are clearly psychosomatic.",
+      "avatarUrl": "https://live.staticflickr.com/65535/52076675557_f52ba89f7b_o.jpg",
+      "_id": {
+        "$oid": "62827e6d51dbf0984955e16f"
+      }
+    },
+    {
+      "name": "Daphne Moon",
+      "actor": "Jane Leeves",
+      "description": "Daphne is hired by Frasier Crane to assist Frasier's father, Martin Crane, with his daily activities and exercises. Daphne's most significant developing relationship over the course of the series is with Frasier Crane's younger brother, Niles Crane. Unbeknownst to Daphne, Niles falls in love with her at first sight. Despite the increasing obviousness of Niles' infatuation, Daphne remains utterly oblivious to Niles' feelings towards her, though they become increasingly close friends.  Niles finally confesses his feelings to her, and although she initially rejects him, saying she should go through with her promise, Daphne eventually changes her mind, abandoning her fiancé at the altar.",
+      "avatarUrl": "https://live.staticflickr.com/65535/52075589950_93418880ac_o.jpg",
+      "_id": {
+        "$oid": "62827e9c51dbf0984955e170"
+      }
+    },
+    {
+      "name": "Martin Crane",
+      "actor": "John Mahoney",
+      "description": "Martin is a brash, no bull, charming retired police officer and the father of Frasier and Niles Crane. In 1991, Martin was injured in the line of duty when he was shot after interrupting a robbery attempt in a convenience store. His injury inhibits him from living alone, and forces him to accept Frasier's invitation to live with him upon Frasier's return to Seattle. Martin soon grows close to his physical therapist Daphne Moon, and steadily becomes closer to both his sons, despite their different tastes and personalities.",
+      "avatarUrl": "https://live.staticflickr.com/65535/52075337404_27b9df55c6_o.jpg",
+      "_id": {
+        "$oid": "62827ea751dbf0984955e171"
+      }
+    },
+    {
+      "name": "Roz Doyle",
+      "actor": "Peri Gilpin",
+      "description": "Roz is the producer of the Dr. Frasier Crane Show on KACL 780AM. Roz is a very attractive woman, with a euphonious voice. She has no shame about her promiscuity, which is the subject of many jokes and snide remarks, especially from Frasier's brother Niles. Roz quickly befriends Frasier's father, Martin and is the only regular character to address him as Marty. While Frasier and Niles are interested in high culture, Roz and Martin share a more down-to-earth view of life, and grow close over the series. Roz is also close to Martin's physical therapist (and later Niles' wife), Daphne Moon, due to the fact that they are the only two women who were constant in the Crane men's lives.",
+      "avatarUrl": "https://live.staticflickr.com/65535/52078207945_ca18e7a6d4_o.jpg",
+      "_id": {
+        "$oid": "62827eb051dbf0984955e172"
+      }
+    }
+  ],
+  "places": [
+    {
+      "title": "Frasier's Apartment",
+      "description": "Located in the fictional Elliott Bay Towers, The apartment has 3 bedrooms and a large sitting room, with an adjacent kitchen and a fireplace. There are two steps up to a landing with a terrace overlooking the city with a view of the Space Needle. A swanky 2000 square foot apartment today in Seattle would go for $8,360 a month on average, or roughly 3 million to purchase. To have such a grand view of the Space Needle it would have to be located on Queen Anne Hill, its fictional there is no building at this location",
+      "imageUrl": "https://live.staticflickr.com/65535/52073623000_c6eb2cdcf6_b.jpg",
+      "address": "Apartment 1901, Elliott Bay Towers",
+      "location": [
+        47.6323,
+        -122.3569
+      ],
+      "residents": [
+        {
+          "$oid": "62827e4851dbf0984955e16e"
+        },
+        {
+          "$oid": "62827e9c51dbf0984955e170"
+        },
+        {
+          "$oid": "62827ea751dbf0984955e171"
+        }
+      ],
+      "employees": [],
+      "regulars": [],
+      "_id": {
+        "$oid": "62827f9551dbf0984955e174"
+      }
+    },
+    {
+      "title": "KACL",
+      "description": "KACL 780 is the Seattle radio station where Frasier works as a radio psychiatrist, with the exception of early in the sixth season, when the station switches - temporarily - to salsa music, under one of its many, many owners.  It broadcasts many talk radio shows, including Frasier Crane's advice show between 2:00pm-5:00pm each weekday, Bob 'Bulldog' Briscoe's sports program, 'The Gonzo Sports Show', and Gil Chesterton's food show, 'Restaurant Beat'. KACL follows an advice or lifestyle talk format and appears to offer little or no political talk programming, the dominant form of talk radio when the program was being produced. It is portrayed as being just across the street from Café Nervosa.",
+      "imageUrl": "https://live.staticflickr.com/65535/52078380730_0e7c2b4a2e_b.jpg",
+      "location": [
+        47.6098,
+        -122.3379
+      ],
+      "residents": [],
+      "employees": [
+        {
+          "$oid": "62827e4851dbf0984955e16e"
+        },
+        {
+          "$oid": "62827eb051dbf0984955e172"
+        }
+      ],
+      "regulars": [],
+      "_id": {
+        "$oid": "62827fa651dbf0984955e175"
+      }
+    },
+    {
+      "title": "Café Nervosa",
+      "description": "Aside from Frasier's apartment and the KACL booth, the single most used locale must be this bijou dispenser of every form of caffeinated beverage known to man. Café Nervosa is Frasier's refuge whenever his father's chair frays his last nerve, or Eddie snarfs his last waffle. It is fictitiously located on the corner of the real-world 3rd and Pike Streets in Seattle and is portrayed as being just across the street from the also fictional KACL Radio Studios. Its real world inspiration is said to be the Elliott Bay Café",
+      "imageUrl": "https://live.staticflickr.com/65535/52078380765_9924742a2b_o.jpg",
+      "location": [
+        47.6098,
+        -122.3379
+      ],
+      "residents": [],
+      "employees": [],
+      "regulars": [
+        {
+          "$oid": "62827e4851dbf0984955e16e"
+        },
+        {
+          "$oid": "62827e6d51dbf0984955e16f"
+        },
+        {
+          "$oid": "62827eb051dbf0984955e172"
+        }
+      ],
+      "_id": {
+        "$oid": "62827fbf51dbf0984955e176"
+      }
+    }
+  ],
+  "logo": "https://live.staticflickr.com/65535/52085664623_ba18c11134_c.jpg"
+}]
